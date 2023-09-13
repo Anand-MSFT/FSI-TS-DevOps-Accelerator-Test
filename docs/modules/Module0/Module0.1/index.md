@@ -1,7 +1,7 @@
 ---
 title: Module 0.1 - Sub Module Module0 
 
-has_children: true
+has_children: false
 
 ---
 
