@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Module0A
-parent: Module0
+title: Sub Module0A
+parent: Module 0 - Introduction and Pre-requisites
 nav_order: 2
 ---
 
