@@ -1,5 +1,5 @@
 ---
-title: Module 2 - Develop phase
+title: Module 2 - Project Management
 
 has_children: true
 

@@ -1,5 +1,5 @@
 ---
-title: Module 3 - Build Phase
+title: Module 3 - CI/CD Pipeline
 
 has_children: true
 

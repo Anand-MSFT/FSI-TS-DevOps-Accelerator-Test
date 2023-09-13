@@ -1,5 +1,5 @@
 ---
-title: Module 1 - Plan phase
+title: Module 1 - GitHub & Azure DevOps
 
 has_children: true
 

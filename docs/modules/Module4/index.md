@@ -1,5 +1,5 @@
 ---
-title: Module 4 - Deploy Phase
+title: Module 4 - Testing
 has_children: true
 ---
 # Module 4: Deploy
