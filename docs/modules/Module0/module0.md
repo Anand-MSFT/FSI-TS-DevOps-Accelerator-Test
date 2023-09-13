@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module 0 - Introduction and Pre-requisites
+title: Module 0
 nav_order: 2
 has_children: true
 permalink: /docs/Module0
